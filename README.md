@@ -9,7 +9,7 @@ Battle with the glowworm gang, cops and follow the blood stains to find your ex-
 
 
 This project makes use of:
-* loopp
+* loop
 * set-difference
 * intersection
 * remove-dupplicates
